@@ -18,3 +18,6 @@ Fetch license info
 python pypi_info.py
 ```
 
+```
+python pypi_info.py -i another_requirements_txt_file -o output.txt
+```
