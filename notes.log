@@ -1,0 +1,4 @@
+https://pip.pypa.io/en/stable/reference/requirements-file-format/
+
+@todo: consider using this to make use of
+https://github.com/madpah/requirements-parser

@@ -1,0 +1,4 @@
+attrs==21.4.0: MIT (License :: OSI Approved :: MIT License)
+boto3==1.17.54: Apache License 2.0 (License :: OSI Approved :: Apache Software License)
+botocore==1.20.112: Apache License 2.0 (License :: OSI Approved :: Apache Software License)
+* pulp-smash==None: GPLv3 (License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+))
